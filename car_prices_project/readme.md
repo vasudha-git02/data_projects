@@ -14,7 +14,6 @@ This project analyzes car pricing trends using Python and Pandas.
 ## 📊 Insights:
 - **Older cars** depreciate at a slower rate
 - **Mileage significantly impacts resale value**
-- **Luxury brands retain value better**
 
 ## 🚀 Next Steps:
 - Apply Machine Learning to predict car prices
