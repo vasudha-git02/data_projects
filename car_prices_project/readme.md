@@ -21,4 +21,4 @@ This project analyzes car pricing trends using Python and Pandas.
 - Explore seasonality in car sales
 
 ---
-📌 **Project by [Your Name]**
+📌 **Project by Vasudha**
