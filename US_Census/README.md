@@ -40,5 +40,4 @@ This project explores the relationship between demographic distributions and ave
 
 ---
 
-## 📁 Folder Structure
 
