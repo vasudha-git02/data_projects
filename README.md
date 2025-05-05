@@ -29,7 +29,6 @@ Each project is in its own folder with a separate README containing:
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| `iot_sensor_pipeline/` | Real-time IoT data pipeline from Kinesis → Lambda → S3 → Athena → Power BI | AWS, Python |
 | `citi_bike_etl/` | ETL pipeline to clean and analyze Citi Bike data | PostgreSQL, Python |
 
 > *More projects coming soon...*
