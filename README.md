@@ -30,6 +30,7 @@ Each project is in its own folder with a separate README containing:
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | `citi_bike_etl/` | ETL pipeline to clean and analyze Citi Bike data | PostgreSQL, Python |
+| `iot-power-usage-analyzer/` | simulate, process, and visualize household electricity usage | Python,PySpark,AWS,PowerBI |
 
 > *More projects coming soon...*
 
